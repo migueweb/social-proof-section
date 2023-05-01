@@ -8,11 +8,12 @@ module.exports = {
       'soft-pink': 'hsl(333, 80%, 67%)',
       'dark-grayish-magenta': 'hsl(303, 10%, 53%)',
       'light-grayish-magenta': 'hsl(300, 24%, 96%)',
+      white: 'hsl(0, 0%, 100%)',
     },
 
-    fontSize: {
+/*     fontSize: {
       'base':['15px'],
-    },
+    }, */
 
     extend: {
       fontFamily: {
