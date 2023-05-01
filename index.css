@@ -1,0 +1,11 @@
+body {
+    background: no-repeat url('./images/bg-pattern-top-mobile.svg'), no-repeat url('./images/bg-pattern-bottom-mobile.svg') bottom right;
+}
+
+@media (min-width: 768px) {
+    body {
+        height: 100vh;
+        width: auto;
+        background: no-repeat url('./images/bg-pattern-top-desktop.svg'), no-repeat url('./images/bg-pattern-bottom-desktop.svg') bottom right;
+    }
+}
